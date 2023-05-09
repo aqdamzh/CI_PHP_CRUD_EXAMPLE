@@ -29,7 +29,7 @@ php spark serve
 ```
 
 ### Database migration
-configure mysql database named "studentdb". run db migration command.
+configure mysql database named "studentsdb". run db migration command.
 ```bash
 php spark migrate
 ```
